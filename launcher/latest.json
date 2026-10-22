@@ -1,9 +1,9 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/waltz0124/rohan-classic-patch/releases/download/classic-launcher-1.0.0-20261022230326-5ae22297fcb24ca98aff57cb241676a0-part001/payload-53c24d667fdc2b6f560b81ee680ffeac5d498e1003dd145fb2212db93f0e063b.bin",
-  "size": 53164232,
-  "sha256": "53C24D667FDC2B6F560B81EE680FFEAC5D498E1003DD145FB2212DB93F0E063B",
-  "updaterUrl": "https://github.com/waltz0124/rohan-classic-patch/releases/download/classic-launcher-1.0.0-20261022230326-5ae22297fcb24ca98aff57cb241676a0-part001/payload-da536f7dc05675ba3f57c81dcc6c30d494c77e5a51d00382da4071f84734174e.bin",
+  "version": "1.0.1",
+  "url": "https://github.com/waltz0124/rohan-classic-patch/releases/download/classic-launcher-1.0.1-20261022232108-4012cbb871ca492781cfebd241189444-part001/payload-b764880001600053cb4070f8de47bc5c5ef1a704f1a48d426edc36b294a6ccc8.bin",
+  "size": 53165768,
+  "sha256": "B764880001600053CB4070F8DE47BC5C5EF1A704F1A48D426EDC36B294A6CCC8",
+  "updaterUrl": "https://github.com/waltz0124/rohan-classic-patch/releases/download/classic-launcher-1.0.1-20261022232108-4012cbb871ca492781cfebd241189444-part001/payload-da536f7dc05675ba3f57c81dcc6c30d494c77e5a51d00382da4071f84734174e.bin",
   "updaterSha256": "DA536F7DC05675BA3F57C81DCC6C30D494C77E5A51D00382DA4071F84734174E",
   "required": true
 }
