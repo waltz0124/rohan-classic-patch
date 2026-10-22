@@ -1,0 +1,9 @@
+{
+  "version": "2026.10.23.1",
+  "manifest": "https://github.com/waltz0124/rohan-classic-patch/releases/download/classic-patch-2026.10.23.1-20261022225938-73c5b718be9e422c8a73f02771fe1c3a/manifest.json",
+  "manifestSha256": "6d80d2d593692bdce8ac6aa6f6eec446ea61f5d9c3f7a18a6ecd392f12583476",
+  "integrity": "https://github.com/waltz0124/rohan-classic-patch/releases/download/classic-patch-2026.10.23.1-20261022225938-73c5b718be9e422c8a73f02771fe1c3a/integrity.json",
+  "integritySha256": "7d306278a59d6302eb148f4a3ec4050dc7c67a681fc9a07e5e5f362fed2e8a68",
+  "requiredLauncherVersion": "1.0.0",
+  "maintenance": false
+}
