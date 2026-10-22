@@ -5,5 +5,8 @@
   "integrity": "https://github.com/waltz0124/rohan-classic-patch/releases/download/classic-patch-2026.10.23.1-20261022225938-73c5b718be9e422c8a73f02771fe1c3a/integrity.json",
   "integritySha256": "7d306278a59d6302eb148f4a3ec4050dc7c67a681fc9a07e5e5f362fed2e8a68",
   "requiredLauncherVersion": "1.0.0",
-  "maintenance": false
+  "maintenance": false,
+  "noticeTitle": "ROHAN CLASSIC\uC5D0 \uC624\uC2E0 \uAC83\uC744 \uD658\uC601\uD569\uB2C8\uB2E4.",
+  "notice": "\uB7F0\uCC98\uC5D0\uC11C \uCD5C\uC2E0 \uD074\uB77C\uC774\uC5B8\uD2B8 \uD328\uCE58\uC640 \uB7F0\uCC98 \uC5C5\uB370\uC774\uD2B8\uB97C \uC790\uB3D9\uC73C\uB85C \uBC1B\uC2B5\uB2C8\uB2E4.",
+  "noticePublishedAt": "2026-10-22T23:23:29.3369413\u002B00:00"
 }
